@@ -43,4 +43,3 @@ Aplikasi informasi Posyandu berbasis PHP (tanpa framework) yang dapat dijalankan
 - Untuk pengiriman reminder (SMS/WhatsApp/Email) masih berupa pencatatan jadwal; integrasi gateway dapat ditambahkan kemudian.
 - Komponen PDF menggunakan generator sederhana internal. Untuk tampilan lebih kaya, dapat diganti dengan pustaka seperti Dompdf/FPDF jika diinginkan.
 - Variabel lingkungan `APP_TIMEZONE` dapat digunakan bila zona waktu server berbeda dengan kebutuhan operasional.
-# SIPosyandu.git.io
